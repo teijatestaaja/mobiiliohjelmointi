@@ -9,3 +9,4 @@ Mobiiliohjelmointi (kevät 2020), harjoitustehtävät
 - Tehtävä 5: [Multipage calculator](/multipage_calculator/App.js)
 - Tehtävä 6: [Number guessing game with highscore](/number_guessing_game_with_highscore/App.js)
 - Tehtävä 7: [Recipe Finder](/recipe_finder/App.js)
+- Tehtävä 8: [Euro Converter](/euro_converter/App.js)
