@@ -56,7 +56,7 @@ export default function App() {
       <Header
         centerComponent={{ text: 'MY PLACES', style: { color: '#fff' } }}
       />
-      <Input placeholder='Type in address' label='PLACEFINDER'
+      <Input labelStyle={styles.inputLabel} placeholder='Type in address' label='PLACEFINDER'
         onChangeText={(address) => setAddress(address)}
         value={address}/>      
       <Button style={styles.button} raised icon={{name:'save'}} onPress={saveItem} title="SAVE"/>
@@ -73,11 +73,9 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    justifyContent: 'center',
-  }, 
-  listcontainer: {
-    flexDirection: 'row',
-    backgroundColor: '#fff',
+  },
+  inputLabel: {
+    marginTop: 10,
   },
   button: {
     margin: 10,
