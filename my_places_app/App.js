@@ -9,17 +9,6 @@ export default function App() {
   const [address, setAddress] = useState('');
   const [addresslist, setAddresslist] = useState([]);
 
-  const list = [
-    {
-      name: 'Amy Farha',
-      subtitle: 'Vice President'
-    },
-    {
-      name: 'Chris Jackson',
-      subtitle: 'Vice Chairman'
-    },
-  ]
-  
   useEffect(() => {
     db.transaction(tx => {
       tx.executeSql('create table if not exists address (id integer primary key not null, address text);');
