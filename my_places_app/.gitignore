@@ -11,5 +11,8 @@ web-build/
 web-report/
 assets/
 
+babel.config.js
+app.json
+
 # macOS
 .DS_Store
