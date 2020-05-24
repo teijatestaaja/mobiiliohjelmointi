@@ -17,7 +17,7 @@ Kuvat:
 
 - ![Etusivu](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Etusivu")
 - ![Maan tiedot](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/maan_tiedot.png "Maan tiedot")
-- ![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Hakuhistoria")
+- ![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/hakuhistoria.png "Hakuhistoria")
 
 ## Sovelluksen komponentit
 
