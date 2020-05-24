@@ -13,6 +13,8 @@ Käyttäjä voi navigoida maan tiedoista takaisin hakusivulle. Lisäksi sovellus
 
 Esittelyvideot: [osa 1](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/esittely_osa1.MOV), [osa2](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/esittely_osa2.MOV)
 
+Kuvat:
+
 ![Etusivu](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Etusivu")
 ![Maan tiedot](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/maan_tiedot.png "Maan tiedot")
 ![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Hakuhistoria")
