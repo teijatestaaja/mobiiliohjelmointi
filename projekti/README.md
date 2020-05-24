@@ -11,11 +11,11 @@ Loppuprojektini aiheena on [React Native](https://reactnative.dev/) -mobiilisove
 
 Käyttäjä voi navigoida maan tiedoista takaisin hakusivulle. Lisäksi sovellus tallentaa ja näyttää aiemmat hakusanat, ja käyttäjä voi tyhjentää hakuhistorian.
 
-Esittelyvideot: [osa 1](/esittely/esittely_osa1.MOV), [osa2](/esittely/esittely_osa2.MOV)
+Esittelyvideot: [osa 1](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/esittely_osa1.MOV), [osa2](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/esittely_osa2.MOV)
 
-![Etusivu](/esittely/etusivu.png "Etusivu")
-![Maan tiedot](/esittely/maan_tiedot.png "Maan tiedot")
-![Hakuhistoria](/esittely/etusivu.png "Hakuhistoria")
+![Etusivu](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Etusivu")
+![Maan tiedot](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/maan_tiedot.png "Maan tiedot")
+![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Hakuhistoria")
 
 ## Sovelluksen komponentit
 
