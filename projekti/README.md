@@ -15,9 +15,9 @@ Esittelyvideot: [osa 1](https://github.com/teijatestaaja/mobiiliohjelmointi/tree
 
 Kuvat:
 
-![Etusivu](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Etusivu")
-![Maan tiedot](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/maan_tiedot.png "Maan tiedot")
-![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Hakuhistoria")
+- ![Etusivu](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Etusivu")
+- ![Maan tiedot](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/maan_tiedot.png "Maan tiedot")
+- ![Hakuhistoria](https://github.com/teijatestaaja/mobiiliohjelmointi/tree/master/projekti/esittely/etusivu.png "Hakuhistoria")
 
 ## Sovelluksen komponentit
 
